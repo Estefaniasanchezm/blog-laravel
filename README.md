@@ -1,6 +1,6 @@
 ## Blog simple Laravel 10
 
-<p align="center">
+<p align="left">
   Este proyecto se ha creado para poner en practica mis conocimientos de Laravel. Es un blog muy basico creado con Laravel 10 y Tailwind.css
   En concreto tiene las siguientes funcionalidades:
   <ul>
