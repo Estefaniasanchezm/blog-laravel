@@ -2,6 +2,8 @@
 
 <p align="left">
   Este proyecto se ha creado para poner en practica mis conocimientos de Laravel. Es un blog muy basico creado con Laravel 10 y Tailwind.css en la parte front y MySQL en el backend
+</p>
+<p align="left">
   En concreto tiene las siguientes funcionalidades:
   <ul>
     <li>Login y registro de usuarios usando el paquete  <a href="https://jetstream.laravel.com/introduction.html">Laravel jetstream</a></li>
