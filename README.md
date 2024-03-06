@@ -3,9 +3,12 @@
 <p align="center">
   Este proyecto se ha creado para poner en practica mis conocimientos de Laravel. Es un blog muy basico creado con Laravel 10 y Tailwind.css
   En concreto tiene las siguientes funcionalidades:
-  -Login y registro de usuarios  
-  -Crear, editar y eliminar post
-  -Filtrado de post por categorias
+  <ul>
+    <li>Login y registro de usuarios</li>
+    <li>Crear, editar y eliminar post</li>
+    <li>Filtrado de post por categorias</li>
+  </ul>
+ 
 </p>  
   
  
