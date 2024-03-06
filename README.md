@@ -1,7 +1,7 @@
 ## Blog simple Laravel 10
 
 <p align="left">
-  Este proyecto se ha creado para poner en practica mis conocimientos de Laravel. Es un blog muy basico creado con Laravel 10 y Tailwind.css en la parte front y MySQL en el backend
+  Este proyecto se ha creado para poner en practica mis conocimientos de Laravel. Es un blog muy basico creado con Laravel 10, Tailwind.css y MySQL para las bases de datos
 </p>
 <p align="left">
   En concreto tiene las siguientes funcionalidades:
