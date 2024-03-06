@@ -4,7 +4,7 @@
   Este proyecto se ha creado para poner en practica mis conocimientos de Laravel. Es un blog muy basico creado con Laravel 10 y Tailwind.css
   En concreto tiene las siguientes funcionalidades:
   <ul>
-    <li>Login y registro de usuarios usando el paquete  <a href="[https://github.com/laravel/framework/actions](https://jetstream.laravel.com/introduction.html)">Laravel jetstreamz</a></li>
+    <li>Login y registro de usuarios usando el paquete  <a href="https://jetstream.laravel.com/introduction.html">Laravel jetstream</a></li>
     <li>Crear, editar y eliminar post</li>
     <li>Filtrado de post por categorias</li>
   </ul>
